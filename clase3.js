@@ -19,3 +19,6 @@ var totalStr = total.toFixed(2);
 
 var totalnum = parseFloat(totalStr)
 
+var pizza = 8
+var personas = 2
+var cantidadPorcionesPersona = pizza / personas
