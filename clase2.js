@@ -8,3 +8,4 @@ var nombreCompleto = nombre + ' ' + apellido
 var nombreCompleto2 = `${nombre} ${apellido.toUpperCase()}`;
 var str = nombre.charAt(1) + nombre.charAt(2)
 var str2 = nombre.substr(1, 2)
+var ultimaLetra = nombre.substr(-1, 1)
