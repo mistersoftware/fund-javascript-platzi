@@ -13,4 +13,4 @@ peso = peso + sandwich
 
 var precioDeVino = 200.3
 
-var total = precioDeVino * 100 * 3 / 100
+var total = Math.round(precioDeVino * 100 * 3) / 100
