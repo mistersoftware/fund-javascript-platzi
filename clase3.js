@@ -7,4 +7,4 @@ edad = edad + 1
 edad2 += 1
 
 var peso = peso -2
-var peso2 -= 1
+
