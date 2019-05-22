@@ -16,3 +16,6 @@ var precioDeVino = 200.3
 var total = Math.round(precioDeVino * 100 * 3) / 100
 
 var totalStr = total.toFixed(2);
+
+var totalnum = parseFloat(totalStr)
+
