@@ -5,3 +5,6 @@ function imprimirEdad(n, e){
 }
 
 imprimirEdad(nombre, edad)
+imprimirEdad('jose', 15)
+imprimirEdad('maria', 19)
+imprimirEdad('paola', 23)
